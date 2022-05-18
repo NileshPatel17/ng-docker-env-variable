@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'ng-docker-env-variable';
+  title = 'Dynamically Set Angular Environment Variables in Docker';
 }
